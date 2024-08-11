@@ -6,17 +6,17 @@
 
 # 👋 Intro
 
-> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 한상지입니다!  
-> 6개월간 프론트엔드, DB 설계, 백엔드까지 개발자로서의 역량을 길러왔습니다. 
-> 사용자 인터페이스에 도움을 주고 시스템의 안정을 가져올 수 있는 개발자가 되고 싶습니다.
+> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 한상지입니다!  <br />
+> 6개월간 프론트엔드, DB 설계, 백엔드까지 개발자로서의 역량을 길러왔습니다. <br />
+> 사용자 인터페이스에 도움을 주고 시스템의 안정을 가져올 수 있는 개발자가 되고 싶습니다.<br />
 
 <br />
 
 # 📝Projects
-6개월간 진행했던 프로젝트입니다!
+6개월간 진행했던 프로젝트입니다!<br />
 다양한 프로젝트를 통해
-웹 사이트를 설계하고 제작할 수 있었습니다!
-다양한 팀원과 함께 협력하며 프로젝트를 수행하며 '소통' 능력도 길러왔습니다
+웹 사이트를 설계하고 제작할 수 있었습니다! <br />
+다양한 팀원과 함께 협력하며 프로젝트를 수행하며 '소통' 능력도 길러왔습니다 <br />
 
 
 ## 1. 🌞: Weather
@@ -29,71 +29,89 @@
 >> Front-end
 >> - Language : HTML, CSS, JAVAscript
 >> 
->> [프로젝트 상세 설명(Front-end)]((https://github.com/SangjiHan/Weather))  
+>> [프로젝트 상세 설명(Front-end)](https://github.com/SangjiHan/Weather)  
 
 
 <br />
 
-## 2. 👞 MyLittleShoes
+## 2. 🎥: MovieCloud
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+>  영화 정보 제공 사이트
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> - 개발기간 : 2024.02 - 2024.06
+> - 핵심 역할 : 오픈 API를 활용한 영화 정보 제공 사이트
+> - Language : HTML, CSS, JAVAscript, react
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/SangjiHan/MovieCloud)
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 👱: ChatService
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> 웹 채팅 사이트
 >
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> - 개발기간 : 2024.05 - 2024.06
+> - 핵심 역할 : 실시간 웹 채팅 사이트, DB 구축, 친구 추가 기능, 서버 생성 기능, Restful API
+> - Language : HTML5, CSS3, JavaScript, Java, JSP, Oracle, Spring Boot, JPA, WebSocket
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명](https://github.com/SangjiHan/chatService)
 
 <br />
 
-## 4. 👊 MyLittelHero
+## 4. 🥘: yummy
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+>  강남 맛집 추천 사이트
 >
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
+> - 개발기간 : 2024.07 - 2024.08
+> - 핵심 역할 : DB 생성 및 연동, 맛집 검색 기능, 랜덤 리스트 출력 기능, 맛집 저장 기능, 리뷰 작성 기능
+> - Language : HTML5, CSS3, JavaScript, Java, JSP, Mysql, Spring Boot, JPA
+
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
+> [프로젝트 상세 설명](https://github.com/davidtwo000/green-yummy-project)
 
 <br />
 
-## 5. 🎮 Sparta Fighter
+# 📝Stack
+> 제가 사용할 수 있는 기술입니다 <br />
+## Front-end
 
-> 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
->
-> - 개발기간 : 2022.04.25-27
-> - 핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
-> - Language : python3
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-0000CD?style=for-the-badge&logo=html5&logoColor=white&color=F16529" alt="HTML5 badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=264DE4" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=323330" alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/JSP-F7E03C?style=for-the-badge&logo=java&logoColor=white&color=323330" alt="JSP badge">
+</div>
 
-<br />
+## Back-end
 
-## 6. 🎶 RE:TRO | 그때 그 시절, 당신의 음악
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=005B96" alt="Java badge">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=4A5B4D" alt="Spring Boot badge">
+    <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white&color=F8C300" alt="JPA badge">
+    <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=WebSocket&logoColor=white&color=4A4A4A" alt="WebSocket badge">
+</div>
 
-> 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
->
-> - 개발기간 : 2022.03.02-17
-> - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
-> - Language : python3, javascript
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
+## Database
 
-<br />
+<div align="center">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&color=000000" alt="Oracle badge">
+</div>
+
+## Build Tools
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&color=E1E1E1" alt="Maven badge">
+</div>
+
+## Version Control
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000" alt="Git badge">
+</div>
+
+## Development Tools
+
+<div align="center">
+    <img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=eclipse&logoColor=white&color=4A5B4D" alt="STS4 badge">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1E1E1E" alt="VS Code badge">
+</div>
