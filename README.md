@@ -26,7 +26,7 @@
 > - 개발기간 : 2024.06
 > - 핵심 역할 : 오픈 API를 활용한 실시간 날씨 정보 제공 사이트
 >
->프론트엔드:
+> 프론트엔드:
 > Language: HTML, CSS, JavaScript <br />
 >
 >> [프로젝트 상세 설명](https://github.com/SangjiHan/Weather)  
@@ -40,8 +40,10 @@
 >
 > - 개발기간 : 2024.02 - 2024.06
 > - 핵심 역할 : 오픈 API를 활용한 영화 정보 제공 사이트
->프론트엔드:
-> Language: HTML, CSS, JavaScript <br />
+>   
+> 프론트엔드:
+> Language: HTML, CSS, JavaScript
+> 
 > [프로젝트 상세 설명](https://github.com/SangjiHan/MovieCloud)
 
 <br />
@@ -52,12 +54,15 @@
 >
 > - 개발기간 : 2024.05 - 2024.06
 > - 핵심 역할 : 실시간 웹 채팅 사이트, DB 구축, 친구 추가 기능, 서버 생성 기능, Restful API
->프론트엔드:
+>   
+> 프론트엔드:
 > Language: HTML, CSS, JavaScript
+> 
 > 백엔드:
 > Language: Java, JSP
 > Frameworks: Spring Boot, JPA, WebSocket
->Database: Oracle <br />
+>Database: Oracle
+> 
 > [프로젝트 상세 설명](https://github.com/SangjiHan/chatService)
 
 <br />
@@ -68,12 +73,15 @@
 >
 > - 개발기간 : 2024.07 - 2024.08
 > - 핵심 역할 : DB 생성 및 연동, 맛집 검색 기능, 랜덤 리스트 출력 기능, 맛집 저장 기능, 리뷰 작성 기능
->프론트엔드:
+>   
+> 프론트엔드:
 > Language: HTML, CSS, JavaScript
+> 
 > 백엔드:
 > Language: Java, JSP
 > Frameworks: Spring Boot, JPA
-> Database: MySQL <br />
+> Database: MySQL
+> 
 > [프로젝트 상세 설명](https://github.com/davidtwo000/green-yummy-project)
 
 <br />
