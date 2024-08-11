@@ -71,47 +71,51 @@
 
 <br />
 
-# 📝Stack
-> 제가 사용할 수 있는 기술입니다 <br />
-## Front-end
+# 📝 Stack
+> 제가 사용할 수 있는 기술입니다
 
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-0000CD?style=for-the-badge&logo=html5&logoColor=white&color=F16529" alt="HTML5 badge">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=264DE4" alt="CSS3 badge">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=323330" alt="JavaScript badge">
-    <img src="https://img.shields.io/badge/JSP-F7E03C?style=for-the-badge&logo=java&logoColor=white&color=323330" alt="JSP badge">
+### Front-end
+
+<div>
+    <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white&color=F16529" alt="HTML5 badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=F7DF1E" alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/JSP-F7E03C?style=for-the-badge&logo=java&logoColor=000000&color=F7E03C" alt="JSP badge">
 </div>
 
-## Back-end
+### Back-end
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=005B96" alt="Java badge">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=4A5B4D" alt="Spring Boot badge">
-    <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white&color=F8C300" alt="JPA badge">
-    <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=WebSocket&logoColor=white&color=4A4A4A" alt="WebSocket badge">
+<div>
+    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&color=F89820" alt="Java badge">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=6DB33F" alt="Spring Boot badge">
+    <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white&color=007396" alt="JPA badge">
+    <img src="https://img.shields.io/badge/WebSocket-00BFAE?style=for-the-badge&logo=WebSocket&logoColor=white&color=00BFAE" alt="WebSocket badge">
+    <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&color=306998" alt="Python badge">
 </div>
 
-## Database
+### Database
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&color=000000" alt="Oracle badge">
+<div>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&color=F80000" alt="Oracle badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL badge">
 </div>
 
-## Build Tools
+### Build Tools
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&color=E1E1E1" alt="Maven badge">
+<div>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&color=C71A36" alt="Maven badge">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&color=02303A" alt="Gradle badge">
 </div>
 
-## Version Control
+### Version Control
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=000000" alt="Git badge">
+<div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git badge">
 </div>
 
-## Development Tools
+### Development Tools
 
-<div align="center">
-    <img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=eclipse&logoColor=white&color=4A5B4D" alt="STS4 badge">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1E1E1E" alt="VS Code badge">
+<div>
+    <img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=eclipse&logoColor=white&color=6DB33F" alt="STS4 badge">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC" alt="VS Code badge">
 </div>
