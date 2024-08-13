@@ -29,7 +29,7 @@
 > 프론트엔드:
 > Language: HTML, CSS, JavaScript <br />
 >
->> [프로젝트 상세 설명](https://github.com/SangjiHan/Weather)  
+> [프로젝트 상세 설명](https://github.com/SangjiHan/Weather)  
 
 
 <br />
