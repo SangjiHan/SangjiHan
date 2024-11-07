@@ -46,7 +46,7 @@
 > 프론트엔드:
 > Language: HTML, CSS, JavaScript
 > 
-> [프로젝트 상세 설명](https://github.com/SangjiHan/MovieCloud)
+> [프로젝트 상세 설명](https://github.com/SangjiHan/movie_cloud)
 
 <br />
 
