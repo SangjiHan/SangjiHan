@@ -41,10 +41,10 @@
 >  영화 정보 제공 사이트
 >
 > - 개발기간 : 2024.02 - 2024.06
-> - 핵심 역할 : 오픈 API를 활용한 영화 정보 제공 사이트
+> - 핵심 역할 : 리액트와 오픈 API를 활용한 영화 정보 제공 사이트
 >   
 > 프론트엔드:
-> Language: HTML, CSS, JavaScript
+> Language: React, HTML, CSS, JavaScript
 > 
 > [프로젝트 상세 설명](https://github.com/SangjiHan/movie_cloud)
 
